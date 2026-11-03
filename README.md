@@ -1,40 +1,34 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Привет, я Никита 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+**Frontend-разработчик · AI-assisted development · Минск**
 
+Делаю сайты, лендинги и веб-приложения для бизнеса: от первого экрана до деплоя. В работе активно использую AI-инструменты (Claude Code, Cursor) — они ускоряют рутину, а я отвечаю за архитектуру, качество кода, проверку и результат.
+
+Инженер-программист по образованию. Год службы в роте информационных технологий: разработка внутренних проектов (детали под NDA).
 
 ---
 
-<h1 align="center">Hi, I'm Nikita Korshun 👋</h1>
+### 🚀 Проекты
 
-<p align="center">
-  Frontend Developer · React · TypeScript · Minsk, Belarus
-</p>
+| Проект | Что внутри | Стек | Демо |
+|---|---|---|---|
+| [Барбершоп «Латунь»](https://github.com/nkorshun-dev/latun-barbershop) | Адаптивный лендинг: слайдер, лайтбокс, форма с маской телефона | HTML, CSS, JS | [сайт](https://latun-barber.netlify.app) |
+| [Автосервис «Гараж 17»](https://github.com/nkorshun-dev/garage17-autoservice) | Многошаговая онлайн-запись, калькулятор стоимости, заявки в Telegram через serverless-функцию | JS, Netlify Functions, Telegram Bot API | [сайт](https://garage17-minsk.netlify.app) |
+| [Цветочный магазин «Флёр»](https://github.com/nkorshun-dev/fleur-flower-shop) | Каталог с фильтрами в URL, корзина, промокоды, оформление заказа | React, Vite, React Router, Context | [сайт](https://fleur-flowers.netlify.app) |
 
-<p align="center">
-  <a href="https://t.me/n_korshun">Telegram</a> ·
-  <a href="mailto:nkorsun305@gmail.com">Email</a>
-</p>
+---
 
-### About me
+### 🛠 Стек
 
-I build responsive web interfaces with React and TypeScript. My focus is on forms, dashboards, reusable components, and integration with REST APIs.
+**Основное:** HTML, CSS, JavaScript, React, Vite
+**Инструменты:** Git, GitHub, Netlify, Figma
+**AI-разработка:** Claude Code, Cursor
+**Что умею:** адаптивная вёрстка, формы и валидация, интеграции с API и Telegram-ботами, деплой и настройка хостинга
 
-I use React Hook Form for complex forms, Zustand for shared UI state, and TanStack Query for server data. I care about clear component boundaries, predictable state, and interfaces that work across screen sizes.
+---
 
-### Tech stack
+### 📫 Связаться
 
-- **Frontend:** React, TypeScript, JavaScript, HTML, CSS
-- **State and data:** Zustand, TanStack Query, REST API, Axios, Fetch
-- **Forms and UI:** React Hook Form, React Router, Recharts, Tailwind CSS, CSS Modules, SCSS
-- **Tools and testing:** Git, Vite, Vitest, React Testing Library, Figma
+[Telegram](https://t.me/n_korshun) · [Email](mailto:nkorsun305@gmail.com)
 
-### Areas of focus
-
-- Multi-step forms and validation
-- Data-driven interfaces with clear loading, error, and empty states
-- Reusable UI components and maintainable frontend architecture
+Открыт к предложениям о работе и заказам на разработку сайтов.

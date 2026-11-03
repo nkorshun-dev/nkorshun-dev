@@ -12,9 +12,9 @@
 
 | Проект | Что внутри | Стек | Демо |
 |---|---|---|---|
-| [Барбершоп «Латунь»](https://github.com/nkorshun-dev/latun-barbershop) | Адаптивный лендинг: слайдер, лайтбокс, форма с маской телефона | HTML, CSS, JS | [сайт](https://latun-barber.netlify.app) |
-| [Автосервис «Гараж 17»](https://github.com/nkorshun-dev/garage17-autoservice) | Многошаговая онлайн-запись с валидацией, календарь, калькулятор стоимости, черновик формы | HTML, CSS, JS | [сайт](https://garage17-minsk.netlify.app) |
-| [Цветочный магазин «Флёр»](https://github.com/nkorshun-dev/fleur-flower-shop) | Каталог с фильтрами в URL, корзина, промокоды, оформление заказа | React, Vite, React Router, Context | [сайт](https://fleur-flowers-by.netlify.app) |
+| [Барбершоп «Латунь»](https://github.com/nkorshun-dev/latun-barbershop) | Адаптивный лендинг: слайдер, лайтбокс, форма с маской телефона | HTML, CSS, JS | [сайт](https://nkorshun-barbershop.netlify.app) |
+| [Автосервис «Гараж 17»](https://github.com/nkorshun-dev/garage17-autoservice) | Многошаговая онлайн-запись с валидацией, календарь, калькулятор стоимости, черновик формы | HTML, CSS, JS | [сайт](https://nkorshun-autoservice.netlify.app) |
+| [Цветочный магазин «Флёр»](https://github.com/nkorshun-dev/fleur-flower-shop) | Каталог с фильтрами в URL, корзина, промокоды, оформление заказа | React, Vite, React Router, Context | [сайт](https://nkorshun-flowers.netlify.app) |
 
 ---
 

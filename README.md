@@ -43,6 +43,6 @@
 
 ### 📫 Связаться
 
-[Портфолио](https://nkorshun.dev) · [Telegram](https://t.me/n_korshun) · [Бот для заявок](https://t.me/NKorshunDevBot) · [Instagram](https://www.instagram.com/nkorshundev/) · [Email](mailto:nkorsun305@gmail.com)
+[Портфолио](https://nkorshun.dev) · [Telegram](https://t.me/n_korshun) · [Бот для заявок](https://t.me/NKorshunDevBot) · [Instagram](https://www.instagram.com/nkorshun_dev/) · [Email](mailto:nkorsun305@gmail.com)
 
 Открыт к предложениям о работе и заказам на разработку сайтов.
